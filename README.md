@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This exercise is intended to help the hiring team at Mass Relevance to gauge your level of front-end coding experience (HTML, CSS & JavaScript).
+This exercise is intended to help the hiring team at Spredfast to gauge your level of front-end coding experience (HTML, CSS & JavaScript).
 
 You should budget about an hour of actual coding time to complete the project. We realize that's a tight constraint, but we're trying to be respectful of your time while still allowing you to produce enough code for us to make a fair assessment of your skills. Try to ensure that the finished product represents your coding abilities, although you're not necessarily expected to fully finish in an hour. We'd much rather review high-quality but incomplete work rather than rushed, but complete work.
 
@@ -28,8 +28,8 @@ The leaderboard that you build should satisfy these basic requirements:
 * Every 15 seconds, update the leaderboard to show the latest band names and counts, sorted descending by count.
 * **Bonus:** Animate the leaderboard update in some way (fade/dissolve, sliding, etc.).
 
-When you're finished, please send your work your Mass Relevance dev contact as a .zip file or (preferably) a link to a public repo on GitHub.
+When you're finished, please send your work your Spredfast dev contact as a .zip file or (preferably) a link to a public repo on GitHub.
 
 ## Questions?
 
-Please use your best judgment to interpret the requirements above. However, if you're stuck with a question(s), feel free to email your Mass Relevance dev contact. There are no bad questions (other than, "What does JavaScript mean?").
+Please use your best judgment to interpret the requirements above. However, if you're stuck with a question(s), feel free to email your Spredfast dev contact. There are no bad questions (other than, "What does JavaScript mean?").
