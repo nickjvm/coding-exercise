@@ -1,27 +1,40 @@
 <!doctype html>
 <html lang="en-us">
-  <head>
+<head>
 
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title>Awesome Bands</title>
-    <meta name="description" content="A leaderboard of the most awesome bands of all time." />
-    <meta name="author" content="Mass Relevance" />
-    <meta name="viewport" content="width=device-width" />
-    <base target="_blank" />
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<title>Awesome Bands</title>
+	<meta name="description" content="A leaderboard of the most awesome bands of all time." />
+	<meta name="author" content="Mass Relevance" />
+	<meta name="viewport" content="width=device-width" />
 
-    <!-- CSS -->
-    <link href="./css/style.css" rel="stylesheet" />
+	<!-- CSS -->
+	<link href="./css/style.css" rel="stylesheet" />
 
-  </head>
-  <body>
+</head>
+<body>
 
+	<div class="container">
+		<section class="main">
+			<header>
+				<h1><a href="#" id="logo">Awesome Bands</a></h1>
+			</header>
+			<ul class="leaderboard fetching">
+				<li class="template is-hidden">
+					<div class="is-half truncate leaderboard-name"></div>
+					<div class="is-half truncate leaderboard-metrics">
+						<span class="leaderboard-metrics--count"></span> <small>Mentions</small>
+					</div>
+				</li>
+			</ul>
+		</section>
+	</div>
 
+	<!-- JS -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="./js/lib.js"></script>
+	<script src="./js/script.js"></script>
 
-    <!-- JS -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src="./js/lib.js"></script>
-    <script src="./js/script.js"></script>
-
-  </body>
+</body>
 </html>
